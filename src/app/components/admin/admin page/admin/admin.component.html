@@ -1,0 +1,167 @@
+<section class="hero is-primary is-medium">
+    <!-- Hero head: will stick at the top -->
+    <div class="hero-head">
+      <app-navbar></app-navbar>
+    </div>
+    <!-- Hero content: will be in the middle -->
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h1 class="title">
+          Administrador
+          <span class="icon-surveillance-cctv-symbol"></span>
+        </h1>
+        <h2 class="subtitle">
+        </h2>
+      </div>
+    </div>
+    <!-- Hero footer: will stick at the bottom -->
+    <!-- <div class="hero-foot">
+      <nav class="tabs">
+        <div class="container">
+          <ul>
+            <li class="is-active"><a>Overview</a></li>
+            <li><a>Modifiers</a></li>
+            <li><a>Grid</a></li>
+            <li><a>Elements</a></li>
+            <li><a>Components</a></li>
+            <li><a>Layout</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div> -->
+  </section>
+  <div class="container">
+    <hr>
+  </div>
+  <div class="container">
+    <div class="columns">
+      <div class="column is-10">
+        <section class="hero is-info welcome is-small">
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title">
+                Hola Jesus
+                <br>
+            </h1>
+            <h2 class="subtitle">
+                Tienes 35 notificaciones <br> Ultimo inicio de sesion: 01/04/2020
+                <!-- I hope you are having a great day! -->
+              </h2>
+            </div>
+          </div>
+        </section>
+        <br>
+        <!-- <section class="info-tiles">
+          <div class="tile is-ancestor has-text-centered">
+              <div class="tile is-parent">
+                  <article class="tile is-child box">
+                      <p class="title">439k</p>
+                      <p class="subtitle">Users</p>
+                  </article>
+              </div>
+              <div class="tile is-parent">
+                  <article class="tile is-child box">
+                      <p class="title">59k</p>
+                      <p class="subtitle">Products</p>
+                  </article>
+              </div>
+              <div class="tile is-parent">
+                  <article class="tile is-child box">
+                      <p class="title">3.4k</p>
+                      <p class="subtitle">Open Orders</p>
+                  </article>
+              </div>
+              <div class="tile is-parent">
+                  <article class="tile is-child box">
+                      <p class="title">19</p>
+                      <p class="subtitle">Exceptions</p>
+                  </article>
+              </div>
+          </div>
+          </section> -->
+        <div class="columns">
+          <div class="column is-6">
+            <div class="card">
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-left">
+                    <figure class="image is-96x96">
+                      <img src="https://bulma.io/images/placeholders/96x96.png" class="is-rounded" alt="Placeholder image">
+                    </figure>
+                  </div>
+                  <div class="media-content">
+                    <p class="title is-4">Jesus Albino</p>
+                    <p class="subtitle is-6">jesusalbino@gmail.com
+                      <br> Administrador
+                    </p>
+                  </div>
+                </div>
+                <footer class="card-footer">
+                  <p class="card-footer-item">
+                    <button type="submit" class="button is-block is-link is-rounded is-outlined has-shadow">
+                    Editar Usuario <i class="fa fa-sign-in" aria-hidden="true"></i>
+                    </button>
+                  </p>
+                  <p class="card-footer-item">
+                    <button type="submit" class="button is-block is-link is-rounded is-outlined has-shadow">
+                    Cambiar contraseña <i class="fa fa-sign-in" aria-hidden="true"></i>
+                    </button>
+                  </p>
+                </footer>
+              </div>
+            </div>
+          </div>
+          <div class="column is-6">
+            <div class="card events-card">
+              <header class="card-header">
+                <p class="card-header-title">
+                  Notificaciones
+                </p>
+                <a href="#" class="card-header-icon" aria-label="more options">
+                <span class="icon">
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </span>
+                </a>
+              </header>
+              <div class="card-table">
+                <div class="content">
+                  <table class="table is-fullwidth is-striped is-hoverable">
+                    <tbody>
+                      <tr>
+                        <td width="5%"><i class="fa fa-bell-o"></i></td>
+                        <td>Lorum ipsum dolem aire</td>
+                        <td class="level-right"><a class="button is-small is-primary is-rounded" href="#">Ir</a> <a class="button is-small is-link is-rounded" href="#"><i class="fas fa-trash-alt"></i></a></td>
+                      </tr>
+                      <tr>
+                        <td width="5%"><i class="fa fa-bell-o"></i></td>
+                        <td>Lorum ipsum dolem aire</td>
+                        <td class="level-right"><a class="button is-small is-primary is-rounded" href="#">Action</a></td>
+                      </tr>
+                      <tr>
+                        <td width="5%"><i class="fa fa-bell-o"></i></td>
+                        <td>Lorum ipsum dolem aire</td>
+                        <td class="level-right"><a class="button is-small is-primary is-rounded" href="#">Action</a></td>
+                      </tr>
+                      <tr>
+                        <td width="5%"><i class="fa fa-bell-o"></i></td>
+                        <td>Lorum ipsum dolem aire</td>
+                        <td class="level-right"><a class="button is-small is-primary is-rounded" href="#">Action</a></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <footer class="card-footer">
+                <a href="#" class="card-footer-item">View All</a>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+            <app-producto-admin></app-producto-admin>
+          <hr>
+            <app-cliente-admin></app-cliente-admin>
+        </div>
+      </div>
+    </div>
+  </div>

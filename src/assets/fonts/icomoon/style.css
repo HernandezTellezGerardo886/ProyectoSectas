@@ -1,0 +1,447 @@
+ @font-face {
+  font-family: 'icomoon';
+  src:  url('../icomoon/fonts/icomoon.eot?qt7hik');
+  src:  url('../icomoon/fonts/icomoon.eot?qt7hik#iefix') format('embedded-opentype'),
+    url('../icomoon/fonts/icomoon.ttf?qt7hik') format('truetype'),
+    url('../icomoon/fonts/icomoon.woff?qt7hik') format('woff'),
+    url('../icomoon/fonts/icomoon.svg?qt7hik#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+} 
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-hours-video-surveillance-symbol:before {
+  content: "\e900";
+}
+.icon-x-surveillance-system:before {
+  content: "\e901";
+}
+.icon-hours-video-surveillance-system:before {
+  content: "\e902";
+}
+.icon-alarm-sign-of-an-exclamation-symbol-in-a-triangle:before {
+  content: "\e903";
+}
+.icon-alarm-system-with-password:before {
+  content: "\e904";
+}
+.icon-car-security-symbol:before {
+  content: "\e905";
+}
+.icon-car-surveillance:before {
+  content: "\e906";
+}
+.icon-ccd-surveillance-symbol:before {
+  content: "\e907";
+}
+.icon-cctv-and-surveillance-video-camera-in-a-circle:before {
+  content: "\e908";
+  /* content: "\61"; */
+ color: #c0dfe8;
+ font-size: 72px;
+ margin-bottom: 24px;
+}
+.icon-cctv-closed-tv-circuit-surveillance-symbol-with-video-camera-inside-a-circle:before {
+  content: "\e909";
+}
+.icon-cctv-logo:before {
+  content: "\e90a";
+}
+.icon-cctv-surveillance-camera:before {
+  content: "\e90b";
+}
+.icon-cctv-surveillance-system-triangular-symbol:before {
+  content: "\e90c";
+}
+.icon-cctv-symbol-in-a-square:before {
+  content: "\e90d";
+}
+.icon-day-and-night-surveillance-symbol:before {
+  content: "\e90e";
+}
+.icon-day-and-night-surveillance-symbol-1:before {
+  content: "\e90f";
+}
+.icon-dnr-surveillance-sign:before {
+  content: "\e910";
+}
+.icon-dsp-surveillance-symbol:before {
+  content: "\e911";
+}
+.icon-eye-shape-in-a-square:before {
+  content: "\e912";
+}
+.icon-eye-surveillance-symbol-in-a-square-in-a-circle:before {
+  content: "\e913";
+}
+.icon-eye-surveillance-symbol-with-many-lines-inside-a-square:before {
+  content: "\e914";
+}
+.icon-famous-robber-symbol-of-a-covered-person-with-a-ribbon-banner-in-a-square:before {
+  content: "\e915";
+}
+.icon-hd-720-surveillance-film:before {
+  content: "\e916";
+}
+.icon-home-security:before {
+  content: "\e917";
+}
+.icon-home-security-symbol-of-a-house-with-a-locked-padlock-inside-in-a-circle:before {
+  content: "\e918";
+}
+.icon-home-surveillance:before {
+  content: "\e919";
+}
+.icon-home-surveillance-password:before {
+  content: "\e91a";
+}
+.icon-house-protected-by-surveillance-system-with-alarm-connected-to-cellphone:before {
+  content: "\e91b";
+}
+.icon-house-with-a-keyhole-in-a-circle:before {
+  content: "\e91c";
+}
+.icon-ip66-standard-symbol:before {
+  content: "\e91d";
+}
+.icon-key-in-a-circle:before {
+  content: "\e91e";
+}
+.icon-leaf-outline-in-a-circle:before {
+  content: "\e91f";
+}
+.icon-micro-sd-card:before {
+  content: "\e920";
+}
+.icon-observation:before {
+  content: "\e921";
+}
+.icon-observing-eye:before {
+  content: "\e922";
+}
+.icon-osd-video-surveillance:before {
+  content: "\e923";
+}
+.icon-outdoor-surveillance-680-tvl-system:before {
+  content: "\e924";
+}
+.icon-padlock-in-a-shield:before {
+  content: "\e925";
+}
+.icon-padlock-locked-with-an-eye-shape-in-a-circle:before {
+  content: "\e926";
+}
+.icon-panic-button-tool:before {
+  content: "\e927";
+}
+.icon-person-running-with-alarm-sound-circular-symbol:before {
+  content: "\e928";
+}
+.icon-robber:before {
+  content: "\e929";
+}
+.icon-robber-1:before {
+  content: "\e92a";
+}
+.icon-robber-image-of-surveillance-film:before {
+  content: "\e92b";
+}
+.icon-robber-in-a-square-with-a-banner:before {
+  content: "\e92c";
+}
+.icon-robber-running-silhouette-with-a-bag:before {
+  content: "\e92d";
+}
+.icon-robber-surveillance-image-of-security-video:before {
+  content: "\e92e";
+}
+.icon-robber-surveillance-through-a-video-camera:before {
+  content: "\e92f";
+}
+.icon-security-alarm-button-tool-for-home:before {
+  content: "\e930";
+}
+.icon-security-audio-system:before {
+  content: "\e931";
+}
+.icon-security-cellphone-system-of-drawing-shape-password:before {
+  content: "\e932";
+}
+.icon-security-symbol-with-an-umbrella:before {
+  content: "\e933";
+}
+.icon-sms-in-a-speech-bubble-in-a-double-square:before {
+  content: "\e934";
+}
+.icon-sms-of-surveillance-system:before {
+  content: "\e935";
+}
+.icon-surveillance:before {
+  content: "\e936";
+}
+.icon-surveillance-1:before {
+  content: "\e937";
+}
+.icon-surveillance-10x-symbol:before {
+  content: "\e938";
+}
+.icon-surveillance-active-video-camera-symbol:before {
+  content: "\e939";
+}
+.icon-surveillance-bell-tool:before {
+  content: "\e93a";
+}
+.icon-surveillance-by-phone:before {
+  content: "\e93b";
+}
+.icon-surveillance-camera:before {
+  content: "\e93c";
+}
+.icon-surveillance-camera-and-cctv-letters-of-closed-tv-circuit-in-a-square:before {
+  content: "\e93d";
+}
+.icon-surveillance-camera-connected-to-a-monitor:before {
+  content: "\e93e";
+}
+.icon-surveillance-camera-filming-a-robber:before {
+  content: "\e93f";
+}
+.icon-surveillance-camera-in-a-circle:before {
+  content: "\e940";
+}
+.icon-surveillance-camera-in-a-triangular-rounded-shape-with-cctv-letters:before {
+  content: "\e941";
+}
+.icon-surveillance-camera-outline-in-a-square-with-cctv-letters:before {
+  content: "\e942";
+}
+.icon-surveillance-camera-side-view:before {
+  content: "\e943";
+}
+.icon-surveillance-cameras-in-a-circle:before {
+  content: "\e944";
+}
+.icon-surveillance-camera-symbol-in-a-circle:before {
+  content: "\e945";
+}
+.icon-surveillance-camera-with-a-robber-image:before {
+  content: "\e946";
+}
+.icon-surveillance-cctv-symbol:before {
+  content: "\e947";
+}
+.icon-surveillance-cctv-symbol-in-rounded-triangle:before {
+  content: "\e948";
+}
+.icon-surveillance-character-in-a-circle:before {
+  content: "\e949";
+}
+.icon-surveillance-cloud-symbol:before {
+  content: "\e94a";
+}
+.icon-surveillance-disc-for-data-storage-of-video-film:before {
+  content: "\e94b";
+}
+.icon-surveillance-equipment:before {
+  content: "\e94c";
+}
+.icon-surveillance-equipment-symbol-with-a-bolt:before {
+  content: "\e94d";
+}
+.icon-surveillance-eye-logo:before {
+  content: "\e94e";
+}
+.icon-surveillance-eye-symbol:before {
+  content: "\e94f";
+}
+.icon-surveillance-eye-symbol-in-a-square:before {
+  content: "\e950";
+}
+.icon-surveillance-eye-symbol-with-a-banner-inside-a-square:before {
+  content: "\e951";
+}
+.icon-surveillance-eye-symbol-with-many-lines-in-a-square-shape:before {
+  content: "\e952";
+}
+.icon-surveillance-for-a-house-symbol-in-a-circle:before {
+  content: "\e953";
+}
+.icon-surveillance-grouped-monitors-equipment:before {
+  content: "\e954";
+}
+.icon-surveillance-image-of-a-robber-running-on-a-cellphone-screen:before {
+  content: "\e955";
+}
+.icon-surveillance-logo:before {
+  content: "\e956";
+}
+.icon-surveillance-logo-1:before {
+  content: "\e957";
+}
+.icon-surveillance-logo-of-an-eye-in-a-square:before {
+  content: "\e958";
+}
+.icon-surveillance-logo-of-an-eye-shape-with-shield-outline-iris:before {
+  content: "\e959";
+}
+.icon-surveillance-message:before {
+  content: "\e95a";
+}
+.icon-surveillance-monitors-screens-group:before {
+  content: "\e95b";
+}
+.icon-surveillance-phone-tool-with-zoom:before {
+  content: "\e95c";
+}
+.icon-surveillance-photo-camera:before {
+  content: "\e95d";
+}
+.icon-surveillance-robber-picture:before {
+  content: "\e95e";
+}
+.icon-surveillance-staff:before {
+  content: "\e95f";
+}
+.icon-surveillance-symbol:before {
+  content: "\e960";
+}
+.icon-surveillance-symbol-1:before {
+  content: "\e961";
+}
+.icon-surveillance-symbol-2:before {
+  content: "\e962";
+}
+.icon-surveillance-symbol-3:before {
+  content: "\e963";
+}
+.icon-surveillance-symbol-in-a-square:before {
+  content: "\e964";
+}
+.icon-surveillance-symbol-of-2mp:before {
+  content: "\e965";
+}
+.icon-surveillance-symbol-of-a-hand-on-a-circle-with-concentric-circular-lines:before {
+  content: "\e966";
+}
+.icon-surveillance-symbol-of-an-eye-and-a-banner-in-a-square:before {
+  content: "\e967";
+}
+.icon-surveillance-symbol-of-an-eye-on-a-shield-in-a-circle:before {
+  content: "\e968";
+}
+.icon-surveillance-symbol-of-home-protection:before {
+  content: "\e969";
+}
+.icon-surveillance-symbol-of-prohibition:before {
+  content: "\e96a";
+}
+.icon-surveillance-symbol-on-cloud:before {
+  content: "\e96b";
+}
+.icon-surveillance-symbols-for-home-security:before {
+  content: "\e96c";
+}
+.icon-surveillance-symbol-with-cctv-letters-and-a-video-camera-inside-a-rounded-triangle:before {
+  content: "\e96d";
+}
+.icon-surveillance-system-alert-by-cellphone:before {
+  content: "\e96e";
+}
+.icon-surveillance-system-checking-a-person:before {
+  content: "\e96f";
+}
+.icon-surveillance-system-connected-to-phone-and-speakers:before {
+  content: "\e970";
+}
+.icon-surveillance-system-connected-with-audio-speakers-and-cellphone:before {
+  content: "\e971";
+}
+.icon-surveillance-system-for-pets-owners-by-phones:before {
+  content: "\e972";
+}
+.icon-surveillance-system-of-video-camera-connected-to-a-computer:before {
+  content: "\e973";
+}
+.icon-surveillance-system-symbol:before {
+  content: "\e974";
+}
+.icon-surveillance-through-cellphone-video-camera:before {
+  content: "\e975";
+}
+.icon-surveillance-through-the-cloud:before {
+  content: "\e976";
+}
+.icon-surveillance-tool:before {
+  content: "\e977";
+}
+.icon-surveillance-tool-in-a-circle:before {
+  content: "\e978";
+}
+.icon-surveillance-video-camera:before {
+  content: "\e979";
+}
+.icon-surveillance-video-camera-1:before {
+  content: "\e97a";
+}
+.icon-surveillance-video-camera-2:before {
+  content: "\e97b";
+}
+.icon-surveillance-video-camera-3:before {
+  content: "\e97c";
+}
+.icon-surveillance-video-camera-4:before {
+  content: "\e97d";
+}
+.icon-surveillance-video-camera-5:before {
+  content: "\e97e";
+}
+.icon-surveillance-video-camera-and-cctv-letters-in-a-square:before {
+  content: "\e97f";
+}
+.icon-surveillance-video-camera-and-cctv-signs-in-a-circle:before {
+  content: "\e980";
+}
+.icon-surveillance-video-camera-in-a-circle:before {
+  content: "\e981";
+}
+.icon-surveillance-video-camera-inside-a-circle:before {
+  content: "\e982";
+}
+.icon-surveillance-video-camera-observation-symbol-in-a-circle:before {
+  content: "\e983";
+}
+.icon-surveillance-video-camera-outline:before {
+  content: "\e984";
+}
+.icon-surveillance-video-camera-system:before {
+  content: "\e985";
+}
+.icon-surveillance-video-camera-with-cctv-letters-inside-a-rounded-triangle:before {
+  content: "\e986";
+}
+.icon-surveillance-video-outlined-camera-and-monitor-in-a-circle:before {
+  content: "\e987";
+}
+.icon-surveillance-video-tool-in-a-circle:before {
+  content: "\e988";
+}
+.icon-video-camera-and-cctv-letters-of-surveillance-circular-symbol:before {
+  content: "\e989";
+}
+.icon-video-camera-for-surveillance:before {
+  content: "\e98a";
+}

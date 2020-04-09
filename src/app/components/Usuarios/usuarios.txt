@@ -1,0 +1,7 @@
+En esta carpeta estan las paginas de 
+iniciar sesion 
+registrame
+recuperar mi contraseña
+Mi cuenta
+rastrear pedido 
+dashboard

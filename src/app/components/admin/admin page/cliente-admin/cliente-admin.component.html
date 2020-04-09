@@ -1,0 +1,126 @@
+<div class="card has-table has-mobile-sort-spaced">
+    <header class="card-header">
+      <p class="card-header-title">
+        <span class="icon"><i class="mdi mdi-account-multiple"></i></span>
+        Clients
+      </p>
+      <button type="button" class="button is-small"><span class="icon"><i class="mdi mdi-refresh default"></i></span><span>Refresh</span></button>
+    </header>
+    <div class="notification is-card-toolbar">
+      <div class="level">
+        <div class="level-left">
+          <div class="level-item">
+            <div class="buttons has-addons">
+              <button class="button is-active">Active</button>
+              <button disabled="disabled" class="button">Recent</button>
+              <button disabled="disabled" class="button">Archived</button>
+            </div>
+          </div>
+        </div>
+        <div class="level-right">
+          <div class="level-item">
+            <form>
+              <div class="field has-addons">
+                <div class="control"><input type="text" placeholder="Buscar Cliente" class="input"></div>
+                <div class="control">
+                  <button type="submit" class="button is-primary"><span class="icon"><i class="mdi mdi-dots-horizontal default"></i></span></button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-content">
+      <div class="table-container">
+
+        <table class="table is-fullwidth is-striped is-hoverable is-sortable is-fullwidth">
+          <thead>
+          <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Company</th>
+            <th>City</th>
+            <th>Progress</th>
+            <th>Created</th>
+            <th></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+            <td class="is-image-cell is-small">
+              <!-- <div class="image">
+                <img src="https://avatars.dicebear.com/v2/initials/rebecca-bauch.svg" class="is-rounded">
+              </div> -->
+              <figure class="image is-48x48">
+                <img src="https://avatars.dicebear.com/v2/initials/rebecca-bauch.svg" class="is-rounded" alt="Placeholder image">
+              </figure>
+            </td>
+            <td>Rebecca Bauch</td>
+            <td>Daugherty-Daniel</td>
+            <td>South Cory</td>
+            <td class="is-progress-col">
+              <progress max="100" class="progress is-small is-primary" value="79">79</progress>
+            </td>
+            <td>
+              <small class="has-text-grey is-abbr-like" title="Oct 25, 2018">Oct 25, 2018</small>
+            </td>
+            <td>
+              <div class="buttons is-right">
+                <button class="button is-small is-primary" type="button">
+                  <span class="icon"><i class="mdi mdi-eye"></i></span>
+                </button>
+                <button class="button is-small is-danger jb-modal" data-target="sample-modal" type="button">
+                  <span class="icon"><i class="mdi mdi-trash-can"></i></span>
+                </button>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="is-image-cell is-small">
+              <!-- <div class="image">
+                <img src="https://avatars.dicebear.com/v2/initials/felicita-yundt.svg" class="is-rounded">
+              </div> -->
+              <figure class="image is-48x48">
+                <img src="https://avatars.dicebear.com/v2/initials/felicita-yundt.svg" class="is-rounded" alt="Placeholder image">
+              </figure>
+            </td>
+            <td>Felicita Yundt</td>
+            <td>Johns-Weissnat</td>
+            <td>East Ariel</td>
+            <td class="is-progress-col">
+              <progress max="100" class="progress is-small is-primary" value="67">67</progress>
+            </td>
+            <td>
+              <small class="has-text-grey is-abbr-like" title="Jan 8, 2019">Jan 8, 2019</small>
+            </td>
+            <td>
+              <div class="buttons is-right">
+                <button class="button is-small is-primary" type="button">
+                  <span class="icon"><i class="mdi mdi-eye"></i></span>
+                </button>
+                <button class="button is-small is-danger jb-modal" data-target="sample-modal" type="button">
+                  <span class="icon"><i class="mdi mdi-trash-can"></i></span>
+                </button>
+              </div>
+            </td>
+          </tr>
+          
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="notification">
+      <div class="buttons has-addons">
+        <button class="button is-active">
+          1
+        </button>
+        <button class="button">
+          2
+        </button>
+        <button class="button">
+          3
+        </button>
+      </div>
+    </div>
+  </div>
