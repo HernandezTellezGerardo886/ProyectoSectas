@@ -1,0 +1,14 @@
+@mixin font($font-family, $font-file) {
+  @font-face {
+    font-family: $font-family;
+    src: url($font-file+'.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+}
+//   caviar_dreams src\assets\fonts\caviar_dreams\CaviarDreams.ttf
+
+@include font('Caviar-Dreams', 'assets/fonts/caviar_dreams/CaviarDreams');
+@include font('Caviar-Dreams-Bold', 'assets/fonts/caviar_dreams/CaviarDreams_Bold');
+@include font('Caviar-Dreams-Bold-Italic', 'assets/fonts/caviar_dreams/CaviarDreams_BoldItalic');
+@include font('Caviar-Dreams-Italic', 'assets/fonts/caviar_dreams/CaviarDreams_Italic');

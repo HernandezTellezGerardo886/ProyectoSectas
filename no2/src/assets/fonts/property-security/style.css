@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'property-security';
+  src:  url('fonts/property-security.eot?36w8cx');
+  src:  url('fonts/property-security.eot?36w8cx#iefix') format('embedded-opentype'),
+    url('fonts/property-security.ttf?36w8cx') format('truetype'),
+    url('fonts/property-security.woff?36w8cx') format('woff'),
+    url('fonts/property-security.svg?36w8cx#property-security') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'property-security' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alarm:before {
+  content: "\e900";
+}
+.icon-broken-leg:before {
+  content: "\e901";
+}
+.icon-burning-insurance:before {
+  content: "\e902";
+}
+.icon-computer-security:before {
+  content: "\e903";
+}
+.icon-disaster-insurance:before {
+  content: "\e904";
+}
+.icon-documents-security:before {
+  content: "\e905";
+}
+.icon-fingerprints:before {
+  content: "\e906";
+}
+.icon-flasher:before {
+  content: "\e907";
+}
+.icon-flood-insurance:before {
+  content: "\e908";
+}
+.icon-handcuffs:before {
+  content: "\e909";
+}
+.icon-hands-holding-heart:before {
+  content: "\e90a";
+}
+.icon-hidden-camera:before {
+  content: "\e90b";
+}
+.icon-house:before {
+  content: "\e90c";
+}
+.icon-key:before {
+  content: "\e90d";
+}
+.icon-key-in-the-lock:before {
+  content: "\e90e";
+}
+.icon-life-insurence:before {
+  content: "\e90f";
+}
+.icon-lock:before {
+  content: "\e910";
+}
+.icon-lock-and-chain:before {
+  content: "\e911";
+}
+.icon-login-password:before {
+  content: "\e912";
+}
+.icon-password:before {
+  content: "\e913";
+}
+.icon-phone-lock:before {
+  content: "\e914";
+}
+.icon-plane-in-the-hand:before {
+  content: "\e915";
+}
+.icon-police-car:before {
+  content: "\e916";
+}
+.icon-safebox:before {
+  content: "\e917";
+}
+.icon-safe-car:before {
+  content: "\e918";
+}
+.icon-safe-mail:before {
+  content: "\e919";
+}
+.icon-savings:before {
+  content: "\e91a";
+}
+.icon-shield:before {
+  content: "\e91b";
+}
+.icon-surveillance-camera:before {
+  content: "\e91c";
+}
+.icon-unlock:before {
+  content: "\e91d";
+}
